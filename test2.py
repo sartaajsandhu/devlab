@@ -1,3 +1,3 @@
 print("VVCE")
-print("Master")
+print("Teacher")
 print("Hello")
